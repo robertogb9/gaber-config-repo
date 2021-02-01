@@ -1,5 +1,2 @@
-path.driver.browser=C:\\Tools\\chromedriver.exe
-
-## default connection pool
-spring.datasource.hikari.connectionTimeout=20000
-spring.datasource.hikari.maximumPoolSize=5
+spring.datasource.hikari.connectionTimeout: 20000
+spring.datasource.hikari.maximumPoolSize: 5
